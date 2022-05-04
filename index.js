@@ -1,3 +1,3 @@
 const msg = 'hello friendo';
-console.log('the message is' + msg);
+console.log('the original message is' + msg);
 console.log('new message');
