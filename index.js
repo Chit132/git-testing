@@ -1,2 +1,3 @@
 const msg = 'hello friendo';
-console.log('hello' + msg);
+console.log('the message is' + msg);
+console.log('new message');
